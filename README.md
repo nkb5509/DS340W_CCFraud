@@ -1,2 +1,3 @@
 # Credit Card Fraud Detection Artificial Neural Network
-This is the Kaggle code we found that is similar to the parent paper of our project
+Updated 23/03/2025 
+- The new dataset for the project is uploaded 
